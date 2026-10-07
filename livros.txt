@@ -22,3 +22,13 @@ Um Estudo em Vermelho
 Título: Um Estudo em Vermelho (A Study in Scarlet)
 Nome do autor: Arthur Conan Doyle
 Ano de publicação: 1887
+
+Assassinato no Expresso do Oriente
+Título: Assassinato no Expresso do Oriente (Murder on the Orient Express)
+Nome do autor: Agatha Christie
+Ano de publicação: 1934
+
+O Boneco de Neve
+Título: O Boneco de Neve (Snømannen)
+Nome do autor: Jo Nesbø
+Ano de publicação: 2007
