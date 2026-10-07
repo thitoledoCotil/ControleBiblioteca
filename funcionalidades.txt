@@ -1,0 +1,4 @@
+1- Organização dos livros por gênero
+2- Ler código de barras para empréstimo
+3- Enviar alerta no telefone do cliente quando o prazo de empréstimo estiver finalizando
+4- Aba de feedback dos leitores que pegaram o livro emprestado
